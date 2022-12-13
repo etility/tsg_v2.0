@@ -1,1 +1,0 @@
-start "python" ./sign_out/sign_out.py 18900972093
